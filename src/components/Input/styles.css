@@ -1,0 +1,19 @@
+input{
+    height: 35px;
+    width: 100%;
+    border: 1px solid #FAFAFA;
+    background: transparent;
+    border-radius: 20px;
+    margin: 0;
+    color: #FFFFFF;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.container{
+    margin: 20px;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

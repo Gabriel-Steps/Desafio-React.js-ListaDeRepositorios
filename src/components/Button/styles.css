@@ -1,0 +1,26 @@
+.containerButton{
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+button{
+    width: 100%;
+    padding: 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    background: transparent;
+    border: 1px solid #FFFFFF;
+    color: #FAFAFA;
+    box-shadow: 1px 1px 10px #FFFFFF;
+    font-weight: bolder;
+    transition: 1s;
+}
+
+button:hover{
+    border: 1px solid blue;
+    background-color: #8597ff;
+    color: black;
+    box-shadow: 1px 1px 10px blue;
+    transition: 1s;
+    cursor: pointer;
+}
